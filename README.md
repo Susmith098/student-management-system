@@ -1,6 +1,6 @@
 <h2>Student management system java desktop application.</h2>
 <br/>
-<h3>>Admin User</h3>
+<h3>Admin User</h3>
 <br/>
 <p>--can Add, update, delete, view student details.</p>
 <p>--can take a print of the all details of the students.</p>
